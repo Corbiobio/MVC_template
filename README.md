@@ -1,4 +1,4 @@
-# gestion_blog
+# MVC_template
 
 ## temps total : 9h30
 
